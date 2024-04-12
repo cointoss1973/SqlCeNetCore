@@ -53,11 +53,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="8.0.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.1" >
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.1">
       <HintPath>System.Data.SqlServerCe.dll</HintPath>
     </Reference>
   </ItemGroup>
